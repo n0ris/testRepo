@@ -37,3 +37,9 @@ My kitten, myau's:
 Some video
 
 [![Kittens video](http://img.youtube.com/vi/sX0eTRLCidc/0.jpg)](https://www.youtube.com/watch?v=sX0eTRLCidc)
+
+--
+
+Some HTML
+
+<br/ > <br /> <b> <a href="http://facebook.com">Find kittens!</a> </b>
