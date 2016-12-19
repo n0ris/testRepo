@@ -16,3 +16,12 @@ But kittens love some code.
 var hello = "Hello world"
 alert(hello)
 ```
+
+--
+
+And tables
+
+| Login   | Password   |
+| ------- | ---------- |
+| *admin* | *admin*    |
+| *admin* | *12345*    |
