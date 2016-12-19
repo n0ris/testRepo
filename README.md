@@ -31,3 +31,9 @@ And tables
 My kitten, myau's:
 > Myau, myau! Myauuuuuu. Mrrrrrr
 > Mrrrrrrr, mrrr.. 
+
+--
+
+Some video
+
+[![Kittens video](http://img.youtube.com/vi/sX0eTRLCidc/0.jpg)](https://www.youtube.com/watch?v=sX0eTRLCidc)
