@@ -13,7 +13,7 @@ Evrybody love kittens?
 But kittens love some code.
 
 ```javascript
-var hello = "Hello world"
+var hello = "Hello kittens"
 alert(hello)
 ```
 
